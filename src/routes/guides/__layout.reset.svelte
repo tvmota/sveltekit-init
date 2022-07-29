@@ -40,9 +40,11 @@
   .links {
     margin-left: auto;
   }
+
   a {
     margin-left: 10px
   }
+
   nav {
     display: flex;
     align-items: center;
